@@ -53,7 +53,7 @@ Familiarize with **Git usage** by going through the following [Git cheat sheet](
 ## Style Guide
 The following **style guides** are established for consistency in the code across the lab. Consider applying the suggested rules to your work for better collaboration and communication with lab members.
 - [Style Guide for C++](style_guide_cpp.md)
-- [Style Guide for Python](Styling_code.md)
+- [Style Guide for Python](style_guide_python.md)
 - [Style Guide for Github](style_guide_github.md)
 
 **[⬆ back to top](#table-of-contents)**
